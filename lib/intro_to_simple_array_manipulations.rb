@@ -28,3 +28,7 @@ def using_concat(array, arr)
   
   array.concat(arr)
 end
+def using_concat(array, arr)
+  
+  array.concat(arr)
+end
