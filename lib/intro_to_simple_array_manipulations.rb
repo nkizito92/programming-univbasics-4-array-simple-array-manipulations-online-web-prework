@@ -28,7 +28,11 @@ def using_concat(array, arr)
   
   array.concat(arr)
 end
-def using_concat(array, arr)
+def using_insert(array, element) 
   
-  array.concat(arr)
+  array.insert(element)
+end
+def using_insert(array, element) 
+  
+  array.insert(element)
 end
